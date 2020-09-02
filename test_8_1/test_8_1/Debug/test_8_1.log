@@ -1,0 +1,6 @@
+﻿  test1.c
+c:\users\administrator\desktop\classcode\01test\test_7_29\test\test_8_1\test_8_1\test1.c(18): warning C4013: “fun”未定义；假设外部返回 int
+  test.c
+  正在生成代码...
+  test_8_1.vcxproj -> C:\Users\Administrator\Desktop\ClassCode\01test\test_7_29\test\test_8_1\Debug\test_8_1.exe
+  test_8_1.vcxproj -> C:\Users\Administrator\Desktop\ClassCode\01test\test_7_29\test\test_8_1\Debug\test_8_1.pdb (Partial PDB)
